@@ -1,0 +1,13 @@
+.post-liked{
+    color: #61dafb;
+    .like{
+        font-weight: bold;
+    }
+}
+.unlike{
+    font-size: 14px;
+    &:hover{
+    cursor: pointer;
+    }
+}
+
